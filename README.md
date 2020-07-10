@@ -12,7 +12,7 @@ Hack Cameras
 
 * pip3 install requests
 
-* cd Cam-Hackers
+* cd cctv
 
 * python3 cctv.py
 
