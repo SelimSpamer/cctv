@@ -42,9 +42,9 @@ print("""
 \033[1;31m24)\033[1;60mViet Nam                    \033[1;31m54)\033[1;88mSloveania             \033[1;31m84)\033[1;37mParaguay
 \033[1;31m25)\033[1;61mBelgium                     \033[1;31m55)\033[1;89mEcuador               \033[1;31m85)\033[1;37mPhilippines
 \033[1;31m26)\033[1;62mBrazil                      \033[1;31m56)\033[1;90mLithuania             \033[1;31m86)\033[1;37mFaroe Islands
-\033[1;31m27)\033[1;63mBulgaria                    \033[1;31m57)\033[1;91mPalestinian           \033[1;31m87)\033[1;37mGuatemala
-\033[1;31m28)\033[1;64mIndonesia                   \033[1;31m58)\033[1;92mNew Zealand           \033[1;31m88)\033[1;37mNepal
-\033[1;31m29)\033[1;65mDenmark                     \033[1;31m59)\033[1;93mBangladeh             \033[1;31m89)\033[1;37mPeru
+\033[1;31m27)\033[1;63mBulgaria                    \033[1;31m57)\033[1;40mPalestinian           \033[1;31m87)\033[1;37mGuatemala
+\033[1;31m28)\033[1;64mIndonesia                   \033[1;31m58)\033[1;42mNew Zealand           \033[1;31m88)\033[1;37mNepal
+\033[1;31m29)\033[1;65mDenmark                     \033[1;31m59)\033[1;42mBangladeh             \033[1;31m89)\033[1;37mPeru
 \033[1;31m30)\033[1;66mArgentina                   \033[1;31m60)\033[1;94mPanama                \033[1;31m90)\033[1;37mUruguay
                                                         \033[1;31m91)\033[1;37mExtra
 """)
