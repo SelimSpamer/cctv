@@ -4,6 +4,8 @@ Hack Cameras
 
 <h3> Mode Of Execution: </h3>
 
+* apt update && upgrade
+
 * apt-get install python3
 
 * apt-get install git
