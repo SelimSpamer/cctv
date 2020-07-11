@@ -16,36 +16,36 @@ print("""
 \033[1;31m 
 \033[1;31m                                                                        ANGELSECURITYTEAM 
 
-\033[1;31m1)\033[1;42mUnited States                \033[1;31m31)\033[1;42mMexico                \033[1;31m61)\033[1;37mMoldova
-\033[1;31m2)\033[1;43mJapan                        \033[1;31m32)\033[1;43mFinland               \033[1;31m62)\033[1;37mNicaragua
-\033[1;31m3)\033[1;44mItaly                        \033[1;31m33)\033[1;44mChina                 \033[1;31m63)\033[1;37mMalta
-\033[1;31m4)\033[1;45mKorea                        \033[1;31m34)\033[1;45mChile                 \033[1;31m64)\033[1;37mTrinidad And Tobago
-\033[1;31m5)\033[1;46mFrance                       \033[1;31m35)\033[1;46mSouth Africa          \033[1;31m65)\033[1;37mSoudi Arabia
-\033[1;31m6)\033[1;42mGermany                      \033[1;31m36)\033[1;42mSlovakia              \033[1;31m66)\033[1;37mCroatia
-\033[1;31m7)\033[1;43mTaiwan                       \033[1;31m37)\033[1;43mHungary               \033[1;31m67)\033[1;37mCyprus
-\033[1;31m8)\033[1;44mRussian Federation           \033[1;31m38)\033[1;44mIreland               \033[1;31m68)\033[1;37mPakistan
-\033[1;31m9)\033[1;45mUnited Kingdom               \033[1;31m39)\033[1;45mEgypt                 \033[1;31m69)\033[1;37mUnited Arab Emirates
-\033[1;31m10)\033[1;46mNetherlands                 \033[1;31m40)\033[1;46mThailand              \033[1;31m70)\033[1;37mKazakhstan
-\033[1;31m11)\033[1;42mCzech Republic              \033[1;31m41)\033[1;42mUkraine               \033[1;31m71)\033[1;37mKuwait
-\033[1;31m12)\033[1;43mTurkey                      \033[1;31m42)\033[1;43mSerbia                \033[1;31m72)\033[1;37mVenezuela
-\033[1;31m13)\033[1;44mAustria                     \033[1;31m43)\033[1;44mHong Kong             \033[1;31m73)\033[1;37mGeorgia
-\033[1;31m14)\033[1;45mSwitzerland                 \033[1;31m44)\033[1;45mGreece                \033[1;31m74)\033[1;37mMontenegro
-\033[1;31m15)\033[1;46mSpain                       \033[1;31m45)\033[1;46mPortugal              \033[1;31m75)\033[1;37mEl Salvador
-\033[1;31m16)\033[1;42mCanada                      \033[1;31m46)\033[1;42mLatvia                \033[1;31m76)\033[1;37mLuxembourg
-\033[1;31m17)\033[1;43mSweden                      \033[1;31m47)\033[1;43mSingapore             \033[1;31m77)\033[1;37mCuracao
-\033[1;31m18)\033[1;44mIsrael                      \033[1;31m48)\033[1;44mIceland               \033[1;31m78)\033[1;37mPuerto Rico
-\033[1;31m19)\033[1;45mIran                        \033[1;31m49)\033[1;45mMalaysia              \033[1;31m79)\033[1;37mCosta Rica
-\033[1;31m20)\033[1;46mPoland                      \033[1;31m50)\033[1;46mColombia              \033[1;31m80)\033[1;37mBelarus
-\033[1;31m21)\033[1;42mIndia                       \033[1;31m51)\033[1;42mTunisia               \033[1;31m81)\033[1;37mAlbania
-\033[1;31m22)\033[1;42mNorway                      \033[1;31m52)\033[1;42mEstonia               \033[1;31m82)\033[1;37mLiechtenstein
-\033[1;31m23)\033[1;44mRomania                     \033[1;31m53)\033[1;43mDominican Republic    \033[1;31m83)\033[1;37mBosnia And Herzegovia
-\033[1;31m24)\033[1;45mViet Nam                    \033[1;31m54)\033[1;44mSloveania             \033[1;31m84)\033[1;37mParaguay
-\033[1;31m25)\033[1;46mBelgium                     \033[1;31m55)\033[1;45mEcuador               \033[1;31m85)\033[1;37mPhilippines
-\033[1;31m26)\033[1;42mBrazil                      \033[1;31m56)\033[1;46mLithuania             \033[1;31m86)\033[1;37mFaroe Islands
-\033[1;31m27)\033[1;43mBulgaria                    \033[1;31m57)\033[1;42mPalestinian           \033[1;31m87)\033[1;37mGuatemala
-\033[1;31m28)\033[1;44mIndonesia                   \033[1;31m58)\033[1;43mNew Zealand           \033[1;31m88)\033[1;37mNepal
-\033[1;31m29)\033[1;42mDenmark                     \033[1;31m59)\033[1;44mBangladeh             \033[1;31m89)\033[1;37mPeru
-\033[1;31m30)\033[1;46mArgentina                   \033[1;31m60)\033[1;46mPanama                \033[1;31m90)\033[1;37mUruguay
+\033[1;31m1)\033[1;42mUnited States                \033[1;31m31)\033[1;42mMexico                \033[1;31m61)\033[1;46mMoldova
+\033[1;31m2)\033[1;43mJapan                        \033[1;31m32)\033[1;43mFinland               \033[1;31m62)\033[1;42mNicaragua
+\033[1;31m3)\033[1;44mItaly                        \033[1;31m33)\033[1;44mChina                 \033[1;31m63)\033[1;44mMalta
+\033[1;31m4)\033[1;45mKorea                        \033[1;31m34)\033[1;45mChile                 \033[1;31m64)\033[1;43mTrinidad And Tobago
+\033[1;31m5)\033[1;46mFrance                       \033[1;31m35)\033[1;46mSouth Africa          \033[1;31m65)\033[1;45mSoudi Arabia
+\033[1;31m6)\033[1;42mGermany                      \033[1;31m36)\033[1;42mSlovakia              \033[1;31m66)\033[1;42mCroatia
+\033[1;31m7)\033[1;43mTaiwan                       \033[1;31m37)\033[1;43mHungary               \033[1;31m67)\033[1;46mCyprus
+\033[1;31m8)\033[1;44mRussian Federation           \033[1;31m38)\033[1;44mIreland               \033[1;31m68)\033[1;43mPakistan
+\033[1;31m9)\033[1;45mUnited Kingdom               \033[1;31m39)\033[1;45mEgypt                 \033[1;31m69)\033[1;45mUnited Arab Emirates
+\033[1;31m10)\033[1;46mNetherlands                 \033[1;31m40)\033[1;46mThailand              \033[1;31m70)\033[1;44mKazakhstan
+\033[1;31m11)\033[1;42mCzech Republic              \033[1;31m41)\033[1;42mUkraine               \033[1;31m71)\033[1;42mKuwait
+\033[1;31m12)\033[1;43mTurkey                      \033[1;31m42)\033[1;43mSerbia                \033[1;31m72)\033[1;46mVenezuela
+\033[1;31m13)\033[1;44mAustria                     \033[1;31m43)\033[1;44mHong Kong             \033[1;31m73)\033[1;43mGeorgia
+\033[1;31m14)\033[1;45mSwitzerland                 \033[1;31m44)\033[1;45mGreece                \033[1;31m74)\033[1;45mMontenegro
+\033[1;31m15)\033[1;46mSpain                       \033[1;31m45)\033[1;46mPortugal              \033[1;31m75)\033[1;44mEl Salvador
+\033[1;31m16)\033[1;42mCanada                      \033[1;31m46)\033[1;42mLatvia                \033[1;31m76)\033[1;42mLuxembourg
+\033[1;31m17)\033[1;43mSweden                      \033[1;31m47)\033[1;43mSingapore             \033[1;31m77)\033[1;45mCuracao
+\033[1;31m18)\033[1;44mIsrael                      \033[1;31m48)\033[1;44mIceland               \033[1;31m78)\033[1;46mPuerto Rico
+\033[1;31m19)\033[1;45mIran                        \033[1;31m49)\033[1;45mMalaysia              \033[1;31m79)\033[1;42mCosta Rica
+\033[1;31m20)\033[1;46mPoland                      \033[1;31m50)\033[1;46mColombia              \033[1;31m80)\033[1;44mBelarus
+\033[1;31m21)\033[1;42mIndia                       \033[1;31m51)\033[1;42mTunisia               \033[1;31m81)\033[1;43mAlbania
+\033[1;31m22)\033[1;42mNorway                      \033[1;31m52)\033[1;42mEstonia               \033[1;31m82)\033[1;45mLiechtenstein
+\033[1;31m23)\033[1;44mRomania                     \033[1;31m53)\033[1;43mDominican Republic    \033[1;31m83)\033[1;42mBosnia And Herzegovia
+\033[1;31m24)\033[1;45mViet Nam                    \033[1;31m54)\033[1;44mSloveania             \033[1;31m84)\033[1;46mParaguay
+\033[1;31m25)\033[1;46mBelgium                     \033[1;31m55)\033[1;45mEcuador               \033[1;31m85)\033[1;43mPhilippines
+\033[1;31m26)\033[1;42mBrazil                      \033[1;31m56)\033[1;46mLithuania             \033[1;31m86)\033[1;45mFaroe Islands
+\033[1;31m27)\033[1;43mBulgaria                    \033[1;31m57)\033[1;42mPalestinian           \033[1;31m87)\033[1;44mGuatemala
+\033[1;31m28)\033[1;44mIndonesia                   \033[1;31m58)\033[1;43mNew Zealand           \033[1;31m88)\033[1;42mNepal
+\033[1;31m29)\033[1;42mDenmark                     \033[1;31m59)\033[1;44mBangladeh             \033[1;31m89)\033[1;46mPeru
+\033[1;31m30)\033[1;46mArgentina                   \033[1;31m60)\033[1;46mPanama                \033[1;31m90)\033[1;44mUruguay
                                                         \033[1;31m91)\033[1;37mExtra
 """)
 
